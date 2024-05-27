@@ -1,6 +1,6 @@
 ### Hi, I'm [Juan Gamero-Salinas](https://juangamero.owlstown.net/) 👋
 
-I'm an 🏠 architect and 🌳 environmental designer and 🔬 researcher passionate about creating future-proof and resilient built environments for a changing climate, bridging the gap between design and performance.
+I'm an 🏠🌳 architect and environmental designer passionate about creating future-proof and resilient built environments for a changing climate, bridging the gap between design and performance. Currently, I work as a researcher 🔬 at the [Institute of Data Science and Artificial Intelligence (DATAI)](https://www.unav.edu/web/instituto-de-ciencia-de-los-datos-e-inteligencia-artificial) at the [University of Navarra (UNAV)](https://www.unav.edu/) in Spain.
 
 
 <!--
