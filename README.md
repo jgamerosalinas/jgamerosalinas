@@ -1,5 +1,8 @@
 ### Hi, I'm [Juan Gamero-Salinas](https://juangamero.owlstown.net/) 👋
 
+I'm an 🏠 architect and 🌳 environmental designer and 🔬 researcher passionate about creating future-proof and resilient built environments for a changing climate, bridging the gap between design and performance.
+
+
 <!--
 **jgamerosalinas/jgamerosalinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
